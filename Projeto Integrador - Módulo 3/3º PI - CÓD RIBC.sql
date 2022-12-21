@@ -1,6 +1,6 @@
 create extension cube
 
-DROP TABLE alvara CASCADE
+--DROP TABLE alvara CASCADE
 
 create table alvara(
 	id integer primary key,
